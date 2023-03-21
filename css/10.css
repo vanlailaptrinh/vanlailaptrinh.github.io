@@ -77,6 +77,8 @@ nav a:hover {
 #left {
    flex: 40%;
    background-color: #757273;
+      padding: 10px 20px;
+
 
 }
 #right{
@@ -86,7 +88,6 @@ nav a:hover {
 
 #flexx {
    display: flex;
-   padding: 10px 20px;
    flex-wrap: nowrap;
 
 }
