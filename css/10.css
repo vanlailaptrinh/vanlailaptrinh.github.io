@@ -22,28 +22,38 @@ h1.solid {
 
 }
 .sl1{
-   font-family: Verdana;
+   font-family: Courier New
+;
 }
 .sl2{
-   font-family: Verdana;
+   font-family: Courier New
+;
 }.sl3{
-   font-family: Verdana;
+   font-family: Courier New
+;
 }.sl4{
-   font-family: Verdana;
-}
+   font-family: Courier New
+;
+ }
+ .sl5 {
+    font-family: Courier New
+;
+ }
 
+ 
 
-
-
-
-
+h2.os6{border-style: outset;}
 h2.os1 {border-style: outset;}
 h2.os2 {border-style: outset;}
 h2.os3 {border-style: outset;}
 h2.os4 {border-style: outset;}
 
 
+h2 {
+   color: coral;
+       text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
+}
 
 
 
@@ -53,6 +63,8 @@ h2.os4 {border-style: outset;}
    background-color: #300  ;
    text-transform: center ;
    overflow: hidden;
+   text-shadow: 2px 2px gray;
+
  }
 
 nav a {
@@ -72,7 +84,10 @@ nav a:hover {
 
  h1 {
     color:  #42f5e9;
+    text-shadow: 2px 2px white;
+
  }
+
 
 #left {
    flex: 40%;
